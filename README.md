@@ -1,3 +1,5 @@
+![image](https://github.com/Dea10/bankApi/assets/16433973/92f1e753-6510-43c6-95ef-5d21c72e5173)
+
 # Condensador de Eventos Bancarios
 ```
 $ git clone https://github.com/Dea10/bankApi.git
